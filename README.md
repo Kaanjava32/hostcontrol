@@ -1,5 +1,15 @@
 # hostcontrol
 host kontrol
 
-KURULUM
-https://github.com/Kaanjava32/hostcontrol.git
+not:site 404 hatası verirse siteyi çalışıyor olarak algılar
+
+DDOS İÇİN
+
+çalıştırın
+cloud shell
+kali linux
+termux
+
+pip
+requests
+colorama
