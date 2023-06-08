@@ -1,2 +1,4 @@
 # hostcontrol
-python ile host kontrol
+host kontrol
+
+KURULUM
