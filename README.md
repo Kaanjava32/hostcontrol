@@ -5,11 +5,11 @@ not:site 404 hatası verirse siteyi çalışıyor olarak algılar
 
 DDOS İÇİN
 
-çalıştırın
+çalıştırın:
 cloud shell
 kali linux
 termux
 
-pip
+pip:
 requests
 colorama
